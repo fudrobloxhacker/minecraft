@@ -1,2 +1,1 @@
-# minecraft
-cash money
+# type shi
